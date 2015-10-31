@@ -13,12 +13,12 @@
 
 3. 建立新「政見」<br />
 ![new chapter](readme/readme_chapter.png)
-> 右鍵點選「New Chapter」，輸入新的政見名稱
+>右鍵點選「New Chapter」，輸入新的政見名稱
 
 4. 編輯「政見」的內容
 >編輯方式與步驟3相同
 
-5. 將「政見」同步到 github <br />
+5. 將「政見」同步到 github<br />
 ![Sync](readme/readme_sync.png)
 >點選 Sync 的按鈕
 
