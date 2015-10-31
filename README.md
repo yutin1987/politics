@@ -3,7 +3,7 @@
 ## 立法委員如何建立政見？
 
 1. 建立 repository 在 github <br />
-![New repository](readme_repository.png)
+![New repository](readme_repository.png )
 
 2. create gitbook 從 github repository
 3. 編輯 README.md 提示協作方式
