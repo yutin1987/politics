@@ -42,6 +42,7 @@
 ## 民眾如何提案？
 
 1. 將現在的政見建立一個分歧
+![fork](readme/readme_fork.png)
 >fork立委的repository到民眾自己的repository
 
 2. 民眾在自己的repository編輯政見
