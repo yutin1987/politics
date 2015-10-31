@@ -41,24 +41,28 @@
 
 ## 民眾如何提案？
 
-1. 將現在的政見建立一個分歧
+1. 將現在的政見建立一個分歧<br />
 ![fork](readme/readme_fork.png)
 >fork立委的repository到民眾自己的repository
 
-2. 民眾在自己的repository編輯政見
->透過網頁編輯md(markdown)檔
+2. 民眾在自己的repository編輯政見<br />
+![edit](readme/readme_md_edit.png)
+>透過網頁點選鉛筆，進行md(markdown)檔的編輯
 
-3. 提案並說出見解
+3. 提案並說出見解<br />
+![pull request](readme/readme_pull_request.png)
 >建立pull request，並說出見解
 
-4. 其他民眾服役或參與討論
+4. 其他民眾服役或參與討論<br />
+![comment](readme/readme_pull_request_comment.png)
+>民眾提出意見後，按下comment送出
 
+5. 立法委員參與討論
+>立委也可透過comment回覆民眾
 
-5. 立法參與討論
-
-
-6. 決定接受或拒絕
-
+6. 決定接受或拒絕<br />
+![merge](readme/readme_merge.png)
+>Merge pull request表示接受，Close pull request表示拒絕
 
 ## 其他立委可以引用嗎？
 
