@@ -26,13 +26,18 @@
 ## 民眾如何提問？
 1. 前往 github repository
 
-2. 進入 [issues page](https://github.com/yutin1987/politics/issues)
+2. 進入 [issues page](https://github.com/yutin1987/politics/issues)<br />
+![issue](readme/readme_issue.png)
 
-3. 點「New issue」提出問題
+3. 點「New issue」提出問題<br />
+![new issue](readme/readme_new_issue.png)
 
-4. 其他民眾附議或參與討論
+4. 其他民眾附議或參與討論<br />
+![issue comment](readme/readme_issue_comment.png)
+>民眾提出意見後，按下comment送出
 
 5. 立委回覆問題
+>立委也可透過comment回覆民眾
 
 ## 民眾如何提案？
 
