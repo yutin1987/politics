@@ -7,6 +7,7 @@
 
 2. create gitbook 從 github repository<br />
 ![create gitbook](readme/readme_gitbook.png)
+> [下載編輯器](https://www.gitbook.com/editor/)，並建立新Book
 
 3. 編輯 README.md 提示協作方式<br />
 ![edit](readme/readme_edit.png)
